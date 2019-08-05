@@ -1,5 +1,8 @@
 # sysmon
 
+sysmon is a system monitor for linux os.
+It is a very limited versin of the linux 'top' program.
+
 ## To setup and compile in Udacity Ubuntu workspace:
 
 1. Install `ncurses` package
